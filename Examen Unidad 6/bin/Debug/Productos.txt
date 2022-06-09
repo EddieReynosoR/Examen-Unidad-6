@@ -1,0 +1,15 @@
+
+*Nombre: Control remoto TV
+*Descripción: Control para tu television, con varias funcionalidades
+*Precio: $50.00
+*Cantidad en stock: 100
+
+*Nombre: Consola de videojuegos
+*Descripción: Consola de videojuegos PlayStation 5
+*Precio: $5,000.00
+*Cantidad en stock: 40
+
+*Nombre: Masajeador
+*Descripción: Masajeador de pies
+*Precio: $100.00
+*Cantidad en stock: 30
